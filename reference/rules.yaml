@@ -1654,3 +1654,9 @@
   text: cc_by_sa_4
 - id: cc-by-nd
   text: cc_by_nd
+- id: public-domain
+  text: Public
+- id: public-domain
+  text: public
+- id: public-domain
+  text: public domain
