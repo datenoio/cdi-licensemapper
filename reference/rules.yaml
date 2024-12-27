@@ -3,6 +3,8 @@
 - id: cc-by
   text: http://www.opendefinition.org/licenses/cc-by
 - id: cc-by
+  text: https://creativecommons.org/licenses/by/4.0/legalcode
+- id: cc-by
   text: Creative Commons Attribution
 - id: unspecified
   text: None
@@ -92,10 +94,14 @@
   text: cc-nc
 - id: cc-by-nc
   text: http://creativecommons.org/licenses/by-nc/2.0/
+- id: cc-by-nc
+  text: http://creativecommons.org/licenses/by-nc/4.0/legalcode
 - id: cc-zero
   text: cc-zero
 - id: cc-zero
   text: http://www.opendefinition.org/licenses/cc-zero
+- id: cc-zero
+  text: http://creativecommons.org/publicdomain/zero/1.0/legalcode
 - id: cc-zero
   text: Creative Commons CCZero
 - id: dl-de-zero-2.0
